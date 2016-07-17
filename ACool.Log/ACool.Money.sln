@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACool.Money", "ACool.Money\ACool.Money.csproj", "{A1AB3950-60BD-49B5-A322-84077F1089CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACool.Lib.DB", "..\ACool.Common\ACool.Lib.DB\ACool.Lib.DB.csproj", "{C9A48086-8748-4CAD-83EC-A10B28F0D49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACool.Data", "..\ACool.Common\ACool.Data\ACool.Data.csproj", "{D5E182FA-396E-4CA8-8199-68D41446FD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1AB3950-60BD-49B5-A322-84077F1089CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AB3950-60BD-49B5-A322-84077F1089CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AB3950-60BD-49B5-A322-84077F1089CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AB3950-60BD-49B5-A322-84077F1089CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A48086-8748-4CAD-83EC-A10B28F0D49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A48086-8748-4CAD-83EC-A10B28F0D49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A48086-8748-4CAD-83EC-A10B28F0D49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A48086-8748-4CAD-83EC-A10B28F0D49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E182FA-396E-4CA8-8199-68D41446FD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E182FA-396E-4CA8-8199-68D41446FD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E182FA-396E-4CA8-8199-68D41446FD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E182FA-396E-4CA8-8199-68D41446FD74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
